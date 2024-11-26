@@ -165,4 +165,3 @@ WantedBy=multi-user.target
 9. 9. enable the service ```sudo systemctl enable node_exporter```
 10. start the service ```sudo systemctl start node_exporter```
 11. check if the not exporter service is running ```sudo systemctl status node_exporter```
-12. 
